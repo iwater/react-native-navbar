@@ -23,7 +23,7 @@ module.exports = {
     alignItems: 'center',
   },
   navBarButton: {
-    marginTop: 12,
+    //marginTop: 12,
   },
   navBarButtonText: {
     fontSize: 17,

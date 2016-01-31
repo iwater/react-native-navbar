@@ -117,7 +117,7 @@ class NavigationBar extends Component {
 
   static defaultProps = {
     statusBar: {
-      style: 'default',
+      style: 'light-content',
       hidden: false,
       hideAnimation: 'slide',
       showAnimation: 'slide',
